@@ -14,7 +14,7 @@ public class login{
 			WebElement pwd=driver.findElement(By.name("password"));
 			pwd.sendKeys("abc123");
 			WebElement button=driver.findElement(By.id("submit"));
-			button.
+			
 		}
 
 	}
